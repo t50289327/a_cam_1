@@ -1,6 +1,7 @@
 #소스코드 작성: 김종호(金宗昊)
 #본 프로그램은 GNU/Linux, Unix-like OS전용으로 개발 되었습니다!!
 #MicroSoft Windows 계열 OS에서 사용하려면 알아서 수정하십시오
+#라이센스 GNU GPL V2
 import cv2
 import numpy
 import serial
