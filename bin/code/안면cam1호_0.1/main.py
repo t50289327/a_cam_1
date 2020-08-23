@@ -3,9 +3,7 @@
 #MicroSoft Windows 계열 OS에서 사용하려면 알아서 수정하십시오
 #라이센스 GNU GPL V2
 import cv2
-import numpy
 import serial
-import os
 
 ad = serial.Serial('/dev/ttyACM0',9600)
 
